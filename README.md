@@ -22,12 +22,12 @@ Starting fall 2026, I plan to pursue an AI-related master's degree to further bu
 
 ### Advisors
 
-My research is made possible through the mentorship of:
+My work is made possible through the mentorship of:
 
-*   **Dr. Siobhan Corbett** (Associate Professor of Surgery, RWJMS)
-*   **Dr. Sarang Kim** (Chief of Division of Education, RWJMS)
-*   **Rick Anderson** (Director of Emerging Technologies, Rutgers)
-*   **Dr. Naveena Yanamala** (Chief of Clinical Research and AI Innovation, RWJMS)
+*   [**Dr. Siobhan Corbett**](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) (Associate Professor of Surgery, RWJMS)
+*   [**Dr. Sarang Kim**](https://www.linkedin.com/in/sarang-kim-842054105/) (Chief of Division of Education, RWJMS)
+*   [**Rick Anderson**](https://www.linkedin.com/in/rick-anderson-4930741/) (Director of Emerging Technologies, Rutgers)
+*   [**Dr. Naveena Yanamala**](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) (Chief of Clinical Research and AI Innovation, RWJMS)
 
 ---
 [rhr58@scarletmail.rutgers.edu](mailto:rhr58@scarletmail.rutgers.edu)
