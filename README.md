@@ -4,21 +4,9 @@ Currently an undergraduate at Rutgers University (The Honors College) pursuing a
 
 I am interested in closing the gap between AI capabilties and their usefulness in the real-world. What's the point of impressive benchmark performance if these models aren't actually helping people?
 
-### Present
+Over the past two years, I have been leading several AI initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are virtual patient simulation, automated clinical note evaluation, and an AI-based education platform.
 
-Over the past two years, I have been leading several AI initiatives at Rutgers Robert Wood Johnson Medical School (RWJMS):
-
-*   **Virtual Patient Simulation:** real-time, voice-to-voice patient simulation tools using WebRTC and LLMs to help medical students practice history-taking and diagnosis.
-*   **Automated Clinical Evaluation:** model and rubric agnostic auto-evaluation system for clinical notes, with validated performance through custom benchmarking.
-*   **AI-based Educational Platform:** unification of previous two into online platform where faculty at medical schools can create new custom practice opportunities for their students and track their performance.
-
-### Future
-
-Starting fall 2026, I plan to pursue an AI-related master's degree to further build my expertise while also researching the following open problems I have encountered:
-
-*   **Human-Agent Collaboration:** better human-in-the-loop workflows, where agents request for intervention at the correct times.
-*   **User-Centric Interpretability:** building true user trust through AI that authentically communicate reasoning traces to non-technical users.
-*   **System Evaluation:** scalable frameworks to accurately predict capabilies and failure cases of AI systems (move away from traditional manually annotated benchmarks).
+Starting fall 2026, I plan to pursue an AI-related master's degree to further build my expertise while also researching human-agent collaboration, user-centric interpreability, and novel system evaluation frameworks.
 
 ### Advisors
 
@@ -30,4 +18,5 @@ My work is made possible through the mentorship of:
 *   [**Dr. Naveena Yanamala**](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) (Chief of Clinical Research and AI Innovation, RWJMS)
 
 ---
-[rhr58@scarletmail.rutgers.edu](mailto:rhr58@scarletmail.rutgers.edu)
+Institutional: [rhr58@scarletmail.rutgers.edu](mailto:rhr58@scarletmail.rutgers.edu)
+Personal: [reyriordan@gmail.com](mailto:reyriordan@gmail.com)
