@@ -7,7 +7,7 @@ Currently an undergraduate at Rutgers University (The Honors College) pursuing a
 I am interested in closing the gap between AI capabilities and their usefulness in the real-world. What's the point of impressive benchmark performance if these models aren't actually helping people?
 
 ### 🏥 Research
-Over the past two years, I have been leading several AI initiatives at **Robert Wood Johnson Medical School (RWJMS)**. Some highlights are: 
+Over the past two years, I have been leading several AI initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are: 
 *   Virtual patient simulation
 *   Automated clinical note evaluation
 *   AI-based medical education platform
@@ -21,10 +21,10 @@ Starting **fall 2026**, I plan to pursue an AI-related master's degree to furthe
 ### 👥 Advisors
 My work is made possible through the mentorship of:
 
-*   **[Dr. Siobhan Corbett](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/)** | Associate Professor of Surgery, RWJMS
-*   **[Dr. Sarang Kim](https://www.linkedin.com/in/sarang-kim-842054105/)** | Chief of Division of Education, RWJMS
-*   **[Rick Anderson](https://www.linkedin.com/in/rick-anderson-4930741/)** | Director of Emerging Technologies, Rutgers
-*   **[Dr. Naveena Yanamala](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/)** | Chief of Clinical Research and AI Innovation, RWJMS
+*   [Dr. Siobhan Corbett](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Associate Professor of Surgery, RWJMS
+*   [Dr. Sarang Kim](https://www.linkedin.com/in/sarang-kim-842054105/) | Chief of Division of Education, RWJMS
+*   [Rick Anderson](https://www.linkedin.com/in/rick-anderson-4930741/) | Director of Emerging Technologies, Rutgers
+*   [Dr. Naveena Yanamala](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Chief of Clinical Research and AI Innovation, RWJMS
 
 
 ----- Contact: [Institutional](mailto:rhr58@scarletmail.rutgers.edu) / [Personal](mailto:reyriordan@gmail.com) -----
