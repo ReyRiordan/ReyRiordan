@@ -4,9 +4,15 @@ Currently an undergraduate at Rutgers University (The Honors College) pursuing a
 
 I am interested in closing the gap between AI capabilties and their usefulness in the real-world. What's the point of impressive benchmark performance if these models aren't actually helping people?
 
-Over the past two years, I have been leading several AI initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are virtual patient simulation, automated clinical note evaluation, and an AI-based education platform.
+Over the past two years, I have been leading several AI initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are: 
+- Virtual patient simulation
+- Automated clinical note evaluation
+- AI-based medical education platform
 
-Starting fall 2026, I plan to pursue an AI-related master's degree to further build my expertise while also researching human-agent collaboration, user-centric interpreability, and novel system evaluation frameworks.
+Starting fall 2026, I plan to pursue an AI-related master's degree to further build my expertise while also researching:
+- Human-agent collaboration
+- User-centric interpreability
+- Novel system evaluation frameworks
 
 ### Advisors
 
@@ -18,5 +24,4 @@ My work is made possible through the mentorship of:
 *   [**Dr. Naveena Yanamala**](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) (Chief of Clinical Research and AI Innovation, RWJMS)
 
 ---
-Institutional: [rhr58@scarletmail.rutgers.edu](mailto:rhr58@scarletmail.rutgers.edu)
-Personal: [reyriordan@gmail.com](mailto:reyriordan@gmail.com)
+Institutional: [rhr58@scarletmail.rutgers.edu](mailto:rhr58@scarletmail.rutgers.edu) / Personal: [reyriordan@gmail.com](mailto:reyriordan@gmail.com)
