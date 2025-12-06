@@ -1,4 +1,3 @@
-
 # Hi, I'm Rey.
 
 ![Rutgers](https://img.shields.io/badge/Rutgers_University-Honors_College-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
@@ -28,4 +27,4 @@ My work is made possible through the mentorship of:
 *   **[Dr. Naveena Yanamala](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/)** | Chief of Clinical Research and AI Innovation, RWJMS
 
 
------ **Contact:** [Institutional](mailto:rhr58@scarletmail.rutgers.edu) / [Personal](mailto:reyriordan@gmail.com) -----
+----- Contact: [Institutional](mailto:rhr58@scarletmail.rutgers.edu) / [Personal](mailto:reyriordan@gmail.com) -----
