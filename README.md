@@ -4,7 +4,7 @@
 
 Currently an undergraduate at Rutgers University (The Honors College) pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
 
-I am interested in closing the gap between AI capabilities and their usefulness in the real-world.
+I am working to close the gap between AI capabilities and their usefulness in the real-world.
 
 ### 🏥 Research
 Over the past two years, I have been leading several AI-for-education initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are: 
