@@ -2,7 +2,7 @@
 
 ![Rutgers](https://img.shields.io/badge/The Honors College-Rutgers University-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
 
-Currently an undergraduate at Rutgers University (The Honors College) pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
+Currently an undergraduate at the Honors College of Rutgers University pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
 
 I am working to close the gap between AI capabilities and their usefulness in the real-world.
 
