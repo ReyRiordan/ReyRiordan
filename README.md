@@ -13,7 +13,7 @@ Over the past two years, I have been leading several AI-for-education initiative
 *   AI-based medical education platform
 
 ### 🎓 Future
-Starting **fall 2026**, I plan to pursue an AI-related master's degree to further build my expertise while also researching:
+Starting fall 2026, I plan to pursue an AI-related master's degree to further build my expertise while also researching:
 *   Human-agent collaboration
 *   User-centric interpretability
 *   Robust & scalable system evaluation
