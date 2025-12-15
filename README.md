@@ -1,6 +1,6 @@
 # Hi, I'm Rey.
 
-![Rutgers](https://img.shields.io/badge/The Honors College-Rutgers University-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
+![Rutgers](https://img.shields.io/badge/Rutgers_University-Honors_College-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
 
 Currently an undergraduate at the Honors College of Rutgers University pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
 
