@@ -4,10 +4,10 @@
 
 Currently an undergraduate at Rutgers University (The Honors College) pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
 
-I am interested in closing the gap between AI capabilities and their usefulness in the real-world. What's the point of impressive benchmark performance if these models aren't actually helping people?
+I am interested in closing the gap between AI capabilities and their usefulness in the real-world. What's the point of benchmark performance if it's still not actually helping people?
 
 ### 🏥 Research
-Over the past two years, I have been leading several AI initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are: 
+Over the past two years, I have been leading several AI-for-education initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are: 
 *   Virtual patient simulation
 *   Automated clinical note evaluation
 *   AI-based medical education platform
@@ -16,7 +16,7 @@ Over the past two years, I have been leading several AI initiatives at Robert Wo
 Starting **fall 2026**, I plan to pursue an AI-related master's degree to further build my expertise while also researching:
 *   Human-agent collaboration
 *   User-centric interpretability
-*   Novel system evaluation frameworks
+*   Robust & scalable system evaluation
 
 ### 👥 Advisors
 My work is made possible through the mentorship of:
