@@ -1,4 +1,4 @@
-# Hi, I'm Rey.
+# Hi, I'm Rey :)
 
 ![Rutgers](https://img.shields.io/badge/Rutgers_University-Honors_College-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
 
