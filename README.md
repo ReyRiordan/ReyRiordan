@@ -2,7 +2,7 @@
 
 ![Rutgers](https://img.shields.io/badge/Rutgers_University-Honors_College-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
 
-Currently an undergraduate at the Honors College of Rutgers University pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
+Currently a master's student at Carnegie Mellon University, pursuing an MS in AI & Innovation. I graduated from Honors College of Rutgers University pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
 
 I am working to close the gap between AI capabilities and their real-world usefulness.
 
@@ -13,7 +13,7 @@ Over the past two years, I have been leading several AI-for-education initiative
 *   AI-based medical education platform
 
 ### 🎓 Future
-Starting fall 2026, I plan to pursue an AI-related master's degree to further build my expertise while also researching:
+I plan to continue building AI engineering experience while also researching:
 *   Human-agent collaboration
 *   User-centric interpretability
 *   Robust & scalable system evaluation
