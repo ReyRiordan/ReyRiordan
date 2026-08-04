@@ -2,12 +2,12 @@
 
 ![Rutgers](https://img.shields.io/badge/Rutgers_University-Honors_College-cc0033?style=flat-square) ![Majors](https://img.shields.io/badge/Majors-CS_%26_CogSci-003a70?style=flat-square) ![Class](https://img.shields.io/badge/Class_of-2026-lightgrey?style=flat-square)
 
-Currently a master's student at Carnegie Mellon University, pursuing an MS in AI & Innovation. I graduated from Honors College of Rutgers University pursuing a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics, graduating in May 2026.
+I'm currently a master's student at Carnegie Mellon University, pursuing an MS in AI & Innovation. I'm also the lead engineer of the COMPASS project, a comprehensive AI platform for clinical skills training, for the [Rutgers School of Medicine](https://rutgershealth.org/future-school-of-medicine). I graduated from Honors College of Rutgers University New Brunswick in May 2026 with a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics.
 
 I am working to close the gap between AI capabilities and their real-world usefulness.
 
 ### 🏥 Research
-Over the past two years, I have been leading several AI-for-education initiatives at Robert Wood Johnson Medical School (RWJMS). Some highlights are: 
+I have been leading AI-for-education initiatives for the past three years, primarily with Robert Wood Johnson Medical School (RWJMS) faculty and MD-PhD candidates. Some highlights are: 
 *   Virtual patient simulation
 *   Automated clinical note evaluation
 *   AI-based medical education platform
@@ -21,10 +21,9 @@ I plan to continue building AI engineering experience while also researching:
 ### 👥 Advisors
 My work is made possible through the mentorship of:
 
+*   [Dr. Naveena Yanamala](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Chief of Clinical Research and AI Innovation, RWJMS
 *   [Dr. Siobhan Corbett](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Associate Professor of Surgery, RWJMS
 *   [Dr. Sarang Kim](https://www.linkedin.com/in/sarang-kim-842054105/) | Chief of Division of Education, RWJMS
 *   [Rick Anderson](https://www.linkedin.com/in/rick-anderson-4930741/) | Director of Emerging Technologies, Rutgers
-*   [Dr. Naveena Yanamala](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Chief of Clinical Research and AI Innovation, RWJMS
 
-
------ Contact: [Institutional](mailto:rhr58@scarletmail.rutgers.edu) / [Personal](mailto:reyriordan@gmail.com) -----
+----- Contact: [Institutional](mailto:rhriorda@andrew.cmu.edu) / [Personal](mailto:reyriordan@gmail.com) -----
