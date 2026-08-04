@@ -2,7 +2,7 @@
 
 ![CMU](https://img.shields.io/badge/Carnegie_Mellon-MS_in_AI_%26_Innovation-c41230?style=flat-square)
 ![COMPASS](https://img.shields.io/badge/COMPASS-Lead_Engineer-2e7d32?style=flat-square)
-![Rutgers](https://img.shields.io/badge/Rutgers_Honors_College-CS_%7C_CogSci_%7C_Math_'26-cc0033?style=flat-square)
+![Rutgers](https://img.shields.io/badge/Rutgers_Honors_College_'26-CS_%7C_CogSci_%7C_Math-cc0033?style=flat-square)
 
 I'm currently a master's student at Carnegie Mellon University, pursuing an MS in AI & Innovation. I'm also the lead engineer of the COMPASS project, a comprehensive AI platform for clinical skills training, for the [Rutgers School of Medicine](https://rutgershealth.org/future-school-of-medicine). I graduated from Honors College of Rutgers University New Brunswick in May 2026 with a B.S. in Computer Science, B.A. in Cognitive Science, and minor in Mathematics.
 
