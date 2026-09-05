@@ -23,8 +23,9 @@ I plan to continue building AI engineering experience while also researching:
 ### 👥 Advisors
 My work is made possible through the mentorship of:
 
-*   [Dr. Naveena Yanamala](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Chief of Clinical Research and AI Innovation, RWJMS
-*   [Dr. Siobhan Corbett](https://www.linkedin.com/in/naveena-yanamala-ms-phd-fase-240a229/) | Associate Professor of Surgery, RWJMS
+*   [Dr. Naveena Yanamala](https://www.linkedin.com/in/nyanamala/) | Chief of Clinical Research and AI Innovation, RWJMS
+*   [Jesse Roberts](https://www.linkedin.com/in/jessedmroberts/) | Principal Solutions Architect, AWS
+*   [Dr. Siobhan Corbett](https://www.linkedin.com/in/siobhan-corbett-10552899/) | Associate Professor of Surgery, RWJMS
 *   [Dr. Sarang Kim](https://www.linkedin.com/in/sarang-kim-842054105/) | Chief of Division of Education, RWJMS
 *   [Rick Anderson](https://www.linkedin.com/in/rick-anderson-4930741/) | Director of Emerging Technologies, Rutgers
 
