@@ -12,7 +12,8 @@ I am working to close the gap between AI capabilities and their real-world usefu
 I have been leading AI-for-education initiatives for the past three years, primarily with Robert Wood Johnson Medical School (RWJMS) faculty and MD-PhD candidates. Some highlights are: 
 *   Virtual patient simulation
 *   Automated clinical note evaluation
-*   AI-based medical education platform
+*   AI-based coaching and clinical skills training platform (COMPASS)
+*   Patient behavioral de-escalation simulation (BRIDGE)
 
 ### 🎓 Future
 I plan to continue building AI engineering experience while also researching:
